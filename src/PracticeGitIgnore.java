@@ -17,7 +17,7 @@ public class PracticeGitIgnore {
 
             System.out.println("Concatenated String: " + concatenatedString);
         } catch (IOException e) {
-            System.out.println("An error occurred while reading input.");
+            System.out.println("An error will be  occurred while reading input.");
             e.printStackTrace();}
     }
 }
